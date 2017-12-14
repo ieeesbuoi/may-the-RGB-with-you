@@ -10,7 +10,7 @@ For this project you will need:
 ### Installation
 
   * clone this repository
-  * open file rgb.ino in the Arduino IDE
+  * open file ```/rgb/rgb.ino```in the Arduino IDE
   * upload the code to your device
 	
 ### Motivation
